@@ -1,0 +1,2 @@
+-- README PenHs
+-- Penalize past due receivables in Haskell
